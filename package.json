@@ -1,0 +1,24 @@
+{
+  "name": "project_test",
+  "version": "0.0.1",
+  "description": "хуйня",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartmanru/test.git"
+  },
+  "author": "smartman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smartmanru/test/issues"
+  },
+  "homepage": "https://github.com/smartmanru/test#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "vue": "^2.6.10",
+    "vuex": "^3.1.1"
+  }
+}
